@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MLISEKAI
+- 👋 Hi, I’m Lộc
 - 👀 I’m interested in language C#
 - 🌱 I’m currently learning British College BTEC FPT
 - 💞️ I’m looking to my mind 
